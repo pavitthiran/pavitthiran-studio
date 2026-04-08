@@ -41,8 +41,7 @@ export default function Navbar() {
             duration={500}
             className="cursor-pointer flex items-center gap-1 relative"
           >
-            <span className="text-2xl font-bold gradient-text sm:hidden">P</span>
-            <span className="text-lg font-semibold text-text-primary hidden sm:block tracking-wide relative">
+            <span className="text-lg font-semibold text-text-primary tracking-wide relative">
               <span className="text-2xl font-bold gradient-text">P</span>avitthiran R A
               <DoodleStar className="-top-1 -right-3 text-xs" />
             </span>
