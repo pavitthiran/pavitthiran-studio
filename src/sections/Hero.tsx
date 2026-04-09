@@ -164,7 +164,7 @@ export default function Hero() {
             </Link>
             <DoodleStar className="-top-3 -left-3 text-sm" />
           </motion.div>
-          
+
           <motion.div
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.98 }}
