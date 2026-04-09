@@ -76,7 +76,7 @@ export default function Navbar() {
 
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://pavitthiran.github.io/Portfolio/"
+              href="https://pavitthiran-portfolio.onrender.com"
               target="_blank"
               rel="noopener noreferrer"
               className="relative inline-flex items-center gap-2 px-5 py-2.5 bg-dark-tertiary border border-dark-border hover:border-green-primary/30 text-text-primary hover:text-green-primary font-semibold text-sm rounded transition-all duration-300 cursor-pointer group"
