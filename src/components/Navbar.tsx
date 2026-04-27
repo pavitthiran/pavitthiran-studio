@@ -81,7 +81,7 @@ export default function Navbar() {
               rel="noopener noreferrer"
               className="relative inline-flex items-center gap-2 px-5 py-2.5 bg-dark-tertiary border border-dark-border hover:border-green-primary/30 text-text-primary hover:text-green-primary font-semibold text-sm rounded transition-all duration-300 cursor-pointer group"
             >
-              Profolio
+              Portfolio
               <DoodleStar className="-top-1 -right-2 text-xs opacity-0 group-hover:opacity-100 transition-opacity" />
             </a>
 
@@ -136,12 +136,12 @@ export default function Navbar() {
                 </Link>
               ))}
               <a
-                href="https://pavitthiran.github.io/Portfolio/"
+                href="https://pavitthiran-portfolio.onrender.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2 px-4 py-3 bg-dark-tertiary border border-dark-border text-text-primary font-semibold text-sm rounded-lg text-center cursor-pointer transition-colors hover:border-green-primary/30 hover:text-green-primary"
               >
-                Profolio
+                Portfolio
               </a>
               <Link
                 to="contact"
